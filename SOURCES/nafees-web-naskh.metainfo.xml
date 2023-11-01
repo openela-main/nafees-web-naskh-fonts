@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="font">
+  <id>nafees-web-naskh</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <name>Nafees</name>
+  <summary>Nafees Web font for writing Urdu in the Naskh script</summary>
+  <description>
+    <p>
+	Character based Nafees Web Naskh Open Type Font for writing Urdu in Naskh
+	script based on Unicode standard. This version has complete support of
+	Aerabs for Urdu and updated glyphs for Latin characters.
+	Nafees Web Naskh OTF contains approximately 330 glyphs, including 5 ligatures.
+    </p>
+  </description>
+  <updatecontact>psatpute_at_redhat_dot_com</updatecontact>
+  <url type="homepage">http://www.crulp.org/index.htm</url>
+</component>
